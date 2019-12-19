@@ -1,0 +1,10 @@
+# Folder data #
+**/image_sequence
+
+# python bitecodes #
+
+*.pyc
+
+# python cache #
+
+**/__pycache__
